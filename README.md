@@ -1,5 +1,6 @@
 # Cypher-Quest
-*Providing programming content with a focus on sustainable development involves creating educational materials and resources that are not only high-quality and accessible but also environmentally and socially responsible. Here are some strategies and practices to achieve this:
+*Providing programming content with a focus on sustainable development involves creating educational materials and resources that are not only high-quality and accessible but also environmentally and sociall
+y responsible. Here are some strategies and practices to achieve this:
 
 *Key Principles of Sustainable Development in Programming Education
 Accessibility and Inclusivity:
